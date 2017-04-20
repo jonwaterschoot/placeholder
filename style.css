@@ -1,13 +1,16 @@
 
 
-body {
-  font-family: 'Press Start 2P', helvetica, arial, sans-serif;
-  margin: 25px;
+html {
+  height: 100%;
   background: url(https://cdn.glitch.com/aad6e9f5-0d4b-47c1-98a4-f362e8c80a5d%2Ftopanga_soononline.gif?1492702897809) no-repeat center center fixed; 
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
+}
+
+body {
+  font-family: 'Press Start 2P', helvetica, arial, sans-serif;
 }
 
 h1 {
