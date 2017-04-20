@@ -1,0 +1,52 @@
+
+
+body {
+  font-family: 'Press Start 2P', helvetica, arial, sans-serif;
+  margin: 25px;
+  background: url(https://cdn.glitch.com/aad6e9f5-0d4b-47c1-98a4-f362e8c80a5d%2Ftopanga_soononline.gif?1492702897809) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+h1 {
+  font-weight: bold;
+  color: rgba(255,255,255,0.0);
+}
+
+
+
+button {
+  font-size: 16px;
+  border-radius: 3px;
+  background-color: lightgrey;
+  border: 1px solid grey;
+  box-shadow: 2px 2px teal;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: yellow;
+}
+
+button:active {
+  box-shadow: none;
+}
+
+
+footer {
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  padding: 1rem;
+  text-align: center;
+  color: white;
+}
+
+footer img {
+  vertical-align: middle;
+}
+
+
